@@ -3,7 +3,7 @@
 .holder
 {
 	display:flex;
-	flex-wrap:row;
+	flex-wrap:wrap;
 	justify-content:center;
 	
 }
